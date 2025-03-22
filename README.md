@@ -10,12 +10,12 @@
   <tr border="none">
     <td width="50%" align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="135" align="center" src="https://github-readme-stats.vercel.app/api?username=CauaDK&show_icons=true&theme=radical")/> 
+        <img height="140" width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=CauaDK&theme=tokyonight&show_icons=true&hide_border=true&count_private=false"/> 
       </a>
     </td>
     <td width="50%" align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CauaDK&layout=compact&theme=radical&langs_count=8&card_width=340"/>
+          <img height="140" width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaDK&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
         </a>
     </td>
   </tr>
