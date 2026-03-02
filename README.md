@@ -35,6 +35,8 @@ Tenho interesse em transformar dados e tecnologia em soluções práticas que ge
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### 🔧 Outras Ferramentas
